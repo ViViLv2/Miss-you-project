@@ -1,5 +1,5 @@
 # Miss-you-project
-import processing.pdf.*;
+
 
 int amount =3; 
 int[][] state= new int[amount][amount];
